@@ -42,6 +42,7 @@ Este é um projeto desenvolvido para prática e aprendizado, explorando conceito
     ./mvnw spring-boot:run
     ```
 
+4. O backend estará acessível em `http://localhost:8080`
 
 ### Frontend (React)
 
